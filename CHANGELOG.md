@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 
 This changelog was automatically generated using [Caretaker](https://github.com/DevelopersToolbox/caretaker) by [Wolf Software](https://github.com/WolfSoftware)
 
-### [v0.1.0](https://github.com/WolfSoftware/our-projects/releases/v0.1.0)
+### [Unreleased](https://github.com/WolfSoftware/our-projects/compare/v0.1.0...HEAD)
 
-> Released on March, 24th 2021
+- Added new org [`[head]`](https://github.com/WolfSoftware/our-projects/commit/)
 
-- The initial commit [`[head]`](https://github.com/WolfSoftware/our-projects/commit/)
+- The initial commit [`[bced58a]`](https://github.com/WolfSoftware/our-projects/commit/bced58abb11f4170f1688f98538c8fdbae9c3800)
 
