@@ -44,15 +44,19 @@ We release a lot of tools, libraries etc via github and make use of a number of 
 
 | Github Organisation | Description |
 | ------------------- | ----------- |
-| [Actions Toolbox](https://github.com/ActionsToolbox) | A selection of Github Actions. |
-| [AWS Toolbox](https://github.com/AWSToolbox) | A selection of tools for Amazon Web Services. |
-| [Developers Toolbox](https://github.com/DevelopersToolbox) | A selection of tools to help developers. |
-| [Docker Toolbox](https://github.com/DockerToolbox) | An assortment of Docker containers. |
-| [Git Toolbox](https://github.com/GitToolbox) | A collection of git hooks and useful scripts. |
-| [Platform Engineers Toolbox](https://github.com/PlatformEngineersToolbox) | A selection of tools to help platform engineers. |
-| [SecOps Toolbox](https://github.com/SecOpsToolbox) | A collection of security related tools. |
-| [Terraform Toolbox](https://github.com/TerraformToolbox) | An assortment of Terraform modules / code and associated tools. |
-| [Travis Toolbox](https://github.com/TravisToolbox) | A collection of tools which can be used in travis-CI pipelines. |
+| [Actions Toolbox](https://github.com/ActionsToolbox) | A selection of GitHub actions. Created by Wolf Software. |
+| [AWS Toolbox](https://github.com/AWSToolbox) | A selection of tools for Amazon Web Services. Created by Wolf Software. |
+| [Azure Toolbox](https://github.com/AzureToolbox) | A selection of tools for the Azure Cloud Platform. Created by Wolf Software. |
+| [CI/CD Toolbox](https://github.com/CICDToolbox) | A collection of tools which can be used in CI/CD pipelines. Created by Wolf Software. |
+| [Defensive Security Toolbox](https://github.com/DefSecToolbox) | A collection of defensive security related tools. Created by Wolf Software. |
+| [Developers Toolbox](https://github.com/DevelopersToolbox) | A selection of tools to help developers. Created by Wolf Software. |
+| [Docker Toolbox](https://github.com/DockerToolbox) | An assortment of Docker containers. Created by Wolf Software. |
+| [GCP Toolbox](https://github.com/GCPToolbox) | A selection of tools for the Google Cloud Platform. Created by Wolf Software. |
+| [GitHub Toolbox](https://github.com/GitHubToolbox) | An assortment of tools for interacting with GitHub.. Created by Wolf Software. |
+| [Git Toolbox](https://github.com/GitToolbox) | A collection of git hooks and useful scripts. Created by Wolf Software. |
+| [Offensive Security Toolbox](https://github.com/OffSecToolbox) | A collection of offensive security related tools. Created by Wolf Software. |
+| [Platform Engineers Toolbox](https://github.com/PlatformEngineersToolbox) | A selection of tools to help platform engineers. Created by Wolf Software. |
+| [Terraform Toolbox](https://github.com/TerraformToolbox) | A random collection of Terraform modules. Created by Wolf Software. |
 | [Wolf Software](https://github.com/WolfSoftware) | Wolf Softwares home on GitHub. |
 
 ## Contributors
